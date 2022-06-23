@@ -1,0 +1,45 @@
+p {
+    color: saddlebrown; 
+    font-size: 2em;
+}
+
+span {
+    background-color: blue; 
+    color: aqua
+}
+
+#menu {
+    background-color: orange; 
+    width: 300px; 
+    height: 500px;
+    float: left;
+}
+
+#header {
+    background-color: greenyellow;
+    width: 450px;
+    float: right;
+}
+
+#content {
+    background-color: cyan;
+    width: 450px;
+    height: 442px;
+    float: right;
+}
+
+#footer {
+    background-color: red;
+    width: 450px;
+    float: right;
+}
+
+#div-texto{
+    background-color: green;
+}
+
+.teste {
+    color: blueviolet;
+    font-size: 25px;
+    font-weight: bolder;
+}
